@@ -5,5 +5,5 @@
 
     - 🎓 Student in Escola Municipal Professora Maria de Fátima Melo
     - 💡 I'm interested in math, chess and programming
-    - 🌱 C programmer
-    - 💬 Ask me about C language basics
+    - 🌱 C/C++ programmer
+    - 💬 Ask me about C/C++ language basics
